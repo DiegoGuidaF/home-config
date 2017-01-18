@@ -1,2 +1,3 @@
 # home-config
-Personal configurations
+Personal configurations going under ~/ directory.
+Currently containing .bashrc, .Xresources and Awesome configs.
